@@ -1,0 +1,12 @@
+Automation Framework for Element List feature in Heatmap Module
+Java | TestNG | Maven
+
+
+
+All actions used to execute the test case are written in Assignemnt class.
+A method has been defined for each action in WebOperations class.
+Screenshot has been captured for each step of Execution and stored in file.
+For reporting - TestNG Default Reporting and Extent HTML Reported is used.
+
+
+

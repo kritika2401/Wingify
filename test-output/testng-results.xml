@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[website launched]]>
+    </line>
+    <line>
+      <![CDATA[heat map clicked]]>
+    </line>
+    <line>
+      <![CDATA[user switched to a new tab]]>
+    </line>
+    <line>
+      <![CDATA[clicked on element list frame]]>
+    </line>
+    <line>
+      <![CDATA[clicked on email button]]>
+    </line>
+    <line>
+      <![CDATA[block visibility checked]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="71442" started-at="2021-06-17T18:33:46 IST" finished-at="2021-06-17T18:34:57 IST">
+    <groups>
+    </groups>
+    <test name="Testing" duration-ms="71442" started-at="2021-06-17T18:33:46 IST" finished-at="2021-06-17T18:34:57 IST">
+      <class name="Assignment">
+        <test-method status="PASS" signature="testAssignment()[pri:0, instance:Assignment@66a3ffec]" name="testAssignment" duration-ms="71007" started-at="2021-06-17T18:33:46 IST" finished-at="2021-06-17T18:34:57 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[website launched]]>
+            </line>
+            <line>
+              <![CDATA[heat map clicked]]>
+            </line>
+            <line>
+              <![CDATA[user switched to a new tab]]>
+            </line>
+            <line>
+              <![CDATA[clicked on element list frame]]>
+            </line>
+            <line>
+              <![CDATA[clicked on email button]]>
+            </line>
+            <line>
+              <![CDATA[block visibility checked]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAssignment -->
+      </class> <!-- Assignment -->
+    </test> <!-- Testing -->
+  </suite> <!-- Suite1 -->
+</testng-results>
